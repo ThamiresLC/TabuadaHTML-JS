@@ -1,0 +1,27 @@
+body{
+    background-color: darksalmon;
+}
+
+section{
+    width: 50%;
+    margin: auto;
+    padding: 8%;
+    background-color: white;
+    text-align: center;
+    border-radius: 3%;
+    margin-top: 5%
+}
+
+input{
+    width: 18%;
+    text-align: center;
+}
+
+.botao{
+    width: 10%;
+}
+
+select{
+    margin-top: 5%;
+    width: 30%;
+}
